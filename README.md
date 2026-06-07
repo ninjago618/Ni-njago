@@ -1,3 +1,18 @@
-# Ni-njago
-Currently am learning programming and improving my coding skills
-am interested in coding
+# Hi Im 
+[ninjago618]
+
+## About Me
+- Im currently learning [programming].
+- Im interested in [learning coding skills]
+
+## Skills Im Building
+- Git and GitHub
+- [JavaScript and coding]
+
+## Current Projects
+- [introduction to github ](link)
+- learning programming and coding skils.
+
+## How to Reach Me
+- Email: [alvand597@gmail.com]
+- LinkedIn: [Ninjago618]
