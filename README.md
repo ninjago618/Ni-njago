@@ -11,7 +11,7 @@
 
 ## Current Projects
 - [introduction to github ](link)
-- learning programming and coding skils.
+- learning programming and coding skills.
 
 ## How to Reach Me
 - Email: [alvand597@gmail.com]
