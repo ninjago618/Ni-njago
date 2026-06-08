@@ -1,4 +1,4 @@
-# Hi Im 
+# Im 
 [ninjago618]
 
 ## About Me
@@ -15,4 +15,4 @@
 
 ## How to Reach Me
 - Email: [alvand597@gmail.com]
-- LinkedIn: [Ninjago618]
+- LinkedIn: [https://ninjago618.github.io]
