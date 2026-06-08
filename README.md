@@ -4,7 +4,6 @@
 ## About Me
 - Im currently learning [programming].
 - Im interested in [learning coding skills]
-
 ## Skills Im Building
 - Git and GitHub
 - [JavaScript and coding]
@@ -15,4 +14,4 @@
 
 ## How to Reach Me
 - Email: [alvand597@gmail.com]
-- LinkedIn: [https://ninjago618.github.io]
+- LinkedIn: [Ninjago618]
