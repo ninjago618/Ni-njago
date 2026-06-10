@@ -14,4 +14,4 @@
 
 ## How to Reach Me
 - Email: [alvand597@gmail.com]
-- LinkedIn: [GitHub.com/Ninjago618-github]
+- LinkedIn: [https://Ninjago618-debug-hub.github.io/]
