@@ -7,11 +7,11 @@
 ## Skills Im Building
 - Git and GitHub
 - [JavaScript and coding]
-
+- python 
 ## Current Projects
 - [introduction to github ](link)
-- learning programming and coding skills.
-
+- JavaScript and coding skills.
+- git and github 
 ## How to Reach Me
 - Email: [alvand597@gmail.com]
 - LinkedIn: [https://github.com/ninjago618]
