@@ -14,4 +14,4 @@
 - git and github 
 ## How to Reach Me
 - Email: [alvand597@gmail.com]
-- LinkedIn:https://www.linkedin.com/in/Ninjago618
+- LinkedIn:https://github.com/Ninjago618.io
